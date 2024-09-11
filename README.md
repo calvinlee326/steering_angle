@@ -1,4 +1,4 @@
-# Steering Angle Prediction for Quanser QCar(aiot_simulation_project)
+# Steering Prediction for Quanser QCar(aiot_simulation_project)
 
 This project implements a computer vision-based steering angle prediction system for the Quanser QCar platform. It utilizes deep learning techniques to analyze road images and predict appropriate steering angles, contributing to autonomous driving technology.
 
@@ -10,6 +10,7 @@ This project implements a computer vision-based steering angle prediction system
 - **Hardware Integration**: Compatible with Quanser QCar and Logitech G923 steering wheel and pedals.
 - **Visualization**: Provides intuitive visual output of prediction results.
 - **Multi-condition Support**: Robust performance across various road conditions and environments.
+- **Mulit-control Qcar**: User controls the cart via keyboard or Logitech g923 steering wheel.
 
 ## Tech Stack
 
